@@ -1,7 +1,6 @@
 # P2
 Analysez des données de systèmes éducatifs
 
-==> Compétences évaluées
 
   Maîtriser les opérations fondamentales du langage Python pour la Data Science
   
