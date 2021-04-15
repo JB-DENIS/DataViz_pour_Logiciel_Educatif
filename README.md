@@ -1,5 +1,6 @@
 # P2
 Analysez des données de systèmes éducatifs
+Etude (Data Mining) et visualisation de donnée (DataViz) pour définir une stratégie commerciale de déploiement d'un logiciel éducatif. 
 
 
   Maîtriser les opérations fondamentales du langage Python pour la Data Science
