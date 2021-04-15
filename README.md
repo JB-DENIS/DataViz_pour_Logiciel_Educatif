@@ -1,5 +1,5 @@
-# P2
-Analysez des données de systèmes éducatifs
+# Analysez des données de systèmes éducatifs
+
 Etude (Data Mining) et visualisation de donnée (DataViz) pour définir une stratégie commerciale de déploiement d'un logiciel éducatif. 
 
 
